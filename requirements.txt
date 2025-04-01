@@ -1,2 +1,2 @@
 requests==2.28.2
-Pillow==9.5.0 
+svgwrite==1.4.3 
