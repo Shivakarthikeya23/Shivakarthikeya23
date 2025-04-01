@@ -2,16 +2,14 @@ name: Generate Snake
 
 on:
   schedule:
-    # Run at 12 AM and 12 PM UTC
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
 
-# Ensure GitHub Actions has the correct permissions
 permissions:
-  contents: write
+  contents: write  # Ensure GitHub Actions can write to the repo
 
 jobs:
   build:
@@ -36,7 +34,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # Or use secrets.GH_PAGES_DEPLOY if repo is private
           publish_dir: ./dist
           publish_branch: output
           force_orphan: true
