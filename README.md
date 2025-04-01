@@ -1,11 +1,11 @@
-<h2 align="left">Hi 👋! My name is Shiva Karthik Rallabandi and I'm a student,  from Central Michigan University, Mount Pleasant, Michigan, USA</h2>
+# 👋 Hi there! I'm Shiva Karthik Rallabandi
 
-###
+## 🎓 About Me
+I'm a student at Central Michigan University, Mount Pleasant, Michigan, USA, passionate about software development and technology.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="coding" />
 
-###
-
+## 💻 Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -66,8 +66,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
-###
+## 📊 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivakarthikeya23/Shivakarthikeya23/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivakarthikeya23/Shivakarthikeya23/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shivakarthikeya23/Shivakarthikeya23/output/snake.svg">
+</picture>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivakarthikeya23&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivakarthikeya23&layout=compact&theme=radical" alt="languages" height="165">
+</p>
+
+## 📫 Connect With Me
 <div align="left">
   <a href="mailto:shivakarthik.rallabandi@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -77,4 +88,5 @@
   </a>
 </div>
 
-###
+---
+⭐️ From [Shivakarthikeya23](https://github.com/Shivakarthikeya23)
