@@ -75,7 +75,7 @@ I'm a student at Central Michigan University, Mount Pleasant, Michigan, USA, pas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shivakarthikeya23&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivakarthikeya23&layout=compact&theme=radical" alt="languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivakarthikeya23&layout=compact&theme=radical&hide=Jupyter%20Notebook" alt="languages" height="165">
 </p>
 
 ## 📫 Connect With Me
