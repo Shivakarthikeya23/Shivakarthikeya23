@@ -20,9 +20,6 @@ Software Engineer with hands-on experience building backend systems, deployment 
 
 ## 🚀 Featured Projects
 
-**[Azure Utility Tool](https://github.com/Shivakarthikeya23/AzureUtility)** — C#, .NET, Azure APIs
-Built a C#/.NET utility to automate Azure resource operations, with secure API integrations, logging, and error handling.
-
 **[AI Recruiting Voice Agent](https://github.com/Shivakarthikeya23/Ai-Interview-Scheduler-Voice-Agent)** — Python, React, TypeScript, Cloud APIs
 Developed an AI recruiting voice agent with speech-to-text, NLP processing, and asynchronous workflows for scalable automation.
 
